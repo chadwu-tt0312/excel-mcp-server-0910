@@ -1,6 +1,7 @@
 .venv/
 dist/
-excel_files/
+# excel_files/
 __pycache__/
 .notes/
 *.log
+*.lnk
